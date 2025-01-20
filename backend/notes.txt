@@ -1,0 +1,4 @@
+- Add bookmark feature 
+- dynamic message handling 
+- having globally accessible helper
+- Add confirm password additionaly in frontend
